@@ -1,0 +1,5 @@
+name: BlankPlugin
+version: 0.1
+author: Hebirura
+main: uk.hebisden.blankPlugin.blankPlugin
+api-version: 1.16
